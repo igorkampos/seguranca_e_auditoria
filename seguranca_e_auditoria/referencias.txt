@@ -1,0 +1,6 @@
+* CIFRA DE TRANSPOSIÇÃO: --> Colunar 
+(https://crypto.interactive-maths.com/permutation-cipher.html)
+
+* POLIALFABÉTICA: --> Cifra de Vigenère 
+(https://cryptii.com/pipes/vigenere-cipher)
+
